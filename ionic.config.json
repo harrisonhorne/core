@@ -1,0 +1,8 @@
+{
+  "name": "core",
+  "app_id": "caf16bab",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
